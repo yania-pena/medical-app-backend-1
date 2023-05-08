@@ -8,7 +8,7 @@
     "dev": "nodemon index.js",
     "start": "node index.js"
   },
-  "author": "Daniel-Pablo",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "@sendgrid/mail": "^7.7.0",
